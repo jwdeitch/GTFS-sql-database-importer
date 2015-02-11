@@ -12,6 +12,7 @@ the column headers within the parentheses, and check against table schema
 
 "FIELDS TERMINATED BY" denotes how the file is delimited
 
+#Troubleshooting
 
 Some errors you may run into involve the apparmor service preventing access to the resource (GTFS) files.. mysql for example will return error code 13. You can use the following to temporarily disable apparmor:
 
