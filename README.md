@@ -1,5 +1,5 @@
 # GTFS-sql-database-importer
-Import GTFS data into relational database using sql
+Import GTFS data into a relational database using sql
 
 
 #Usage
