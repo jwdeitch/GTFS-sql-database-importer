@@ -4,7 +4,7 @@ Import GTFS data into a relational database using sql
 
 #Usage
 
-Within the LOAD DATA instruction, Replace the:
+Within the ```LOAD DATA``` instruction, Replace the:
 
 path to each .txt file,
 the column headers within the parentheses, and check against table schema 
