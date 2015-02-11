@@ -10,7 +10,7 @@ path to each .txt file,
 the column headers within the parentheses, and check against table schema 
 
 
-"FIELDS TERMINATED BY" denotes how the file is delimited
+```FIELDS TERMINATED BY``` denotes how the file is delimited
 
 #Troubleshooting
 
